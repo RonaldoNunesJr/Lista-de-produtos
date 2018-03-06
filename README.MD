@@ -1,6 +1,4 @@
-# Teste para vaga de front-end na Netshoes.
-
-## Esse teste foi feito com o objetivo de ingressar na equipe de front-end da Netshoes.
+##Estudo de lista de produtos.
 
 ### As seguintes tecnologias foram utilizadas para o desenvolvimento do teste:
 * Node-express para o servidor, na versão 4.16.2.
@@ -19,4 +17,3 @@
 * Desenvolvido por : Ronaldo Nunes de Melo Junior.
 * E-mail para contato: ronaldo.nunes.jr@gmail.com.
 * Telefone Celular: (11) 98224-0668.
-* Obrigado pela a oportunidade.
