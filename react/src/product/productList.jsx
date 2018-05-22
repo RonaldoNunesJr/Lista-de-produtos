@@ -31,10 +31,10 @@ const ProductList = class ProductList extends Component {
     renderProducts () {
         const list = this.props.list || []
         
+        /*<Size available={product.availableSizes} />*/
         return list.map((product, idx) => (
             <Grid _key={idx.toString()} cols='12 6 3'>
                 <ImgAndTitle img={this.url(product.id)} title={product.title} small={product.style} />
-                <Size available={product.availableSizes} />
                 <Price value={product.price} installments={product.installments} isFreeShipping={product.isFreeShipping} currencyId={product.currencyId} />
             </Grid>
         ))
